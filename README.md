@@ -27,7 +27,7 @@ http://localhost:5000/api/h2-console
 * IntelliJ IDEA Community Edition
 * Spring Boot 2.6.4
 * Maven
-* Java 1.8.0_311
+* Java 8
 
 ## Librerías 🖇️
 
